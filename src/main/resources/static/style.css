@@ -1,0 +1,19 @@
+#content {
+    margin-top: 50px;
+}
+
+#logOutput {
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+a {
+    cursor: pointer;
+}
+
+.btn-group {
+    margin-top: 20px;
+}
